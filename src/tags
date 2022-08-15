@@ -1,0 +1,58 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+A	alphabets.c	/^void A(int row, int col, char ch)$/;"	f
+ALPHABETS_H	alphabets.h	2;"	d
+B	alphabets.c	/^void B(int row, int col, char ch)$/;"	f
+BLINE	alphabets.c	92;"	d	file:
+C	alphabets.c	/^void C(int row, int col, char ch)$/;"	f
+D	alphabets.c	/^void D(int row, int col, char ch)$/;"	f
+DEFAULT_ALPHABET_SLEEP	alphabets.h	7;"	d
+DEFAULT_FONT_SIZE	alphabets.h	4;"	d
+DEFAULT_PIXEL	alphabets.h	5;"	d
+DEFAULT_PIXEL_SLEEP	alphabets.h	6;"	d
+E	alphabets.c	/^void E(int row, int col, char ch)$/;"	f
+F	alphabets.c	/^void F(int row, int col, char ch)$/;"	f
+FLINE	alphabets.c	69;"	d	file:
+FULL_FRAME	alphabets.h	10;"	d
+FULL_LENGTH	alphabets.h	12;"	d
+G	alphabets.c	/^void G(int row, int col, char ch)$/;"	f
+H	alphabets.c	/^void H(int row, int col, char ch)$/;"	f
+HALF_FRAME	alphabets.h	9;"	d
+HALF_LENGTH	alphabets.h	11;"	d
+HLINE	alphabets.c	46;"	d	file:
+I	alphabets.c	/^void I(int row, int col, char ch)$/;"	f
+J	alphabets.c	/^void J(int row, int col, char ch)$/;"	f
+K	alphabets.c	/^void K(int row, int col, char ch)$/;"	f
+L	alphabets.c	/^void L(int row, int col, char ch)$/;"	f
+M	alphabets.c	/^void M(int row, int col, char ch)$/;"	f
+N	alphabets.c	/^void N(int row, int col, char ch)$/;"	f
+O	alphabets.c	/^void O(int row, int col, char ch)$/;"	f
+P	alphabets.c	/^void P(int row, int col, char ch)$/;"	f
+Q	alphabets.c	/^void Q(int row, int col, char ch)$/;"	f
+R	alphabets.c	/^void R(int row, int col, char ch)$/;"	f
+S	alphabets.c	/^void S(int row, int col, char ch)$/;"	f
+T	alphabets.c	/^void T(int row, int col, char ch)$/;"	f
+U	alphabets.c	/^void U(int row, int col, char ch)$/;"	f
+V	alphabets.c	/^void V(int row, int col, char ch)$/;"	f
+VLINE	alphabets.c	27;"	d	file:
+W	alphabets.c	/^void W(int row, int col, char ch)$/;"	f
+X	alphabets.c	/^void X(int row, int col, char ch)$/;"	f
+Y	alphabets.c	/^void Y(int row, int col, char ch)$/;"	f
+Z	alphabets.c	/^void Z(int row, int col, char ch)$/;"	f
+alphabet_sleep	alphabets.c	/^int alphabet_sleep = DEFAULT_ALPHABET_SLEEP;$/;"	v
+col	card.c	/^int row = 2, col = 2;$/;"	v
+font_size	alphabets.c	/^int font_size = DEFAULT_FONT_SIZE;$/;"	v
+func_handler	alphabets.c	/^funcptr func_handler[26] = {A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z};$/;"	v
+funcptr	alphabets.h	/^typedef void (*funcptr) (int row, int col, char ch);$/;"	t
+gotoxy	alphabets.c	/^inline void gotoxy(int x, int y)$/;"	f
+i	alphabets.c	/^int i;$/;"	v
+main	card.c	/^int main(int argc, char **argv)$/;"	f
+parse_arguments	card.c	/^int parse_arguments(int argc, char **argv)$/;"	f
+pixel	alphabets.c	/^char pixel = DEFAULT_PIXEL;$/;"	v
+pixel_sleep	alphabets.c	/^int pixel_sleep = DEFAULT_PIXEL_SLEEP;$/;"	v
+row	card.c	/^int row = 2, col = 2;$/;"	v
+usage	card.c	/^inline void usage(char *binary_name)$/;"	f
